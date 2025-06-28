@@ -70,6 +70,13 @@ The app uses the News API's `/v2/everything` endpoint to fetch news articles. Th
 - **Navigation Compose**: Navigation between screens
 - **Material Design 3**: Modern design system
 
+##Preview
+
+![image](https://github.com/user-attachments/assets/3f4f08e4-867e-4d69-8222-a127567725f1)
+
+![image](https://github.com/user-attachments/assets/5bd660fe-bf15-44b7-a256-f4ef6325abd3)
+
+
 ## Note
 
 This application was transformed from a crypto application to a news application. All crypto-related functionality has been replaced with news functionality while maintaining the same architectural patterns and code structure. 
